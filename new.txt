@@ -1,0 +1,4 @@
+name Elza
+age 38
+number_of_pets 1
+salary 50000
