@@ -1,0 +1,8 @@
+Bug Name
+Severity
+Priority
+Environment
+Description
+Steps to Reproduce
+Expected Result
+Actual Result
