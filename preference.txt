@@ -1,0 +1,5 @@
+favorite_movie The_Fifth_Element
+favorite_series Friends
+favorite_food dumplings
+favorite_time_of_year spring 
+country China
